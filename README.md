@@ -7,11 +7,12 @@ The main purpose my macropad is to contro VLC:
  - Volume Down
  - Mute
 # PCB:
-Shematics: <img width="1321" height="588" alt="image" src="https://github.com/user-attachments/assets/3d4665f7-3548-4d66-87bd-9a0b0c78f0b0" />
-PCB: <img width="1147" height="614" alt="image" src="https://github.com/user-attachments/assets/4e692b27-dfa2-4950-a31d-2ab27178d8b9" />
+Shematics: <img width="1321" height="588" alt="image" src="https://github.com/user-attachments/assets/9c20c013-2720-4702-9ced-28d46a1ad16a"/>
+PCB: <img width="1147" height="614" alt="image" src="https://github.com/user-attachments/assets/a2b483b5-1e04-4ec1-b7ce-7024a8c252a4" />
 (though I am thinking to wire the switches from RP2040 cause adding the switches is little difficult cause they are above the main PCB.
 # CAD:
-<img width="939" height="441" alt="image" src="https://github.com/user-attachments/assets/a5d1bc44-2f50-414d-afee-ff05f9f0e21f" />
+<img width="939" height="441" alt="image" src="<img width="1085" height="570" alt="image" src="https://github.com/user-attachments/assets/c32e95fb-4949-4c56-9be2-6c8265ca8be3" />
+" />
 # Firmware:
 <> It is for VLC.
 # BOM:
