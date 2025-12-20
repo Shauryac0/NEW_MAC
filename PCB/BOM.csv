@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4","4","BLUE","","","","LED_THT:LED_D5.0mm","~"
+"R1,R2,R3,R4","4","175ohms","","","","Resistor_SMD:R_0603_1608Metric","~"
+"SW1,SW2,SW3,SW4","4","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"U1","1","XIAO-RP2040-DIP","","","","Seeed Studio XIAO Series Library:XIAO-RP2040-DIP",""
